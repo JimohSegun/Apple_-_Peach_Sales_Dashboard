@@ -4,7 +4,7 @@
 
 ## Problem Statement
 
-This dashboard helps Apple & Peach Global better understand their sales performance from 2021 to 2023. It enables Apple & Peach Global to assess whether they are meeting their sales targets. By analyzing their sales data, they can identify areas needing improvement and recognize unique clients. The dashboard also provides insights into total sales, total profit, total cost, and unique clients. Having identified these issues using the dashboard, they can focus on factors affecting their weekly, monthly, and quarterly sales targets. Sunday has the lowest sales for the year. There were no sales on Tuesday and Wednesday, which affected their ability to achieve the sales target.
+This project helps Apple & Peach Global better understand their sales performance from 2021 to 2023. It enables Apple & Peach Global to assess whether they are meeting their sales targets. By analyzing their sales data, they can identify areas needing improvement and recognize unique clients. The dashboard also provides insights into total sales, total profit, total cost, and unique clients. Having identified these issues using the dashboard, they can focus on factors affecting their weekly, monthly, and quarterly sales targets. Sunday has the lowest sales for the year. There were no sales on Tuesday and Wednesday, which affected their ability to achieve the sales target.
 
 Given that they are 32.31% away from achieving their sales target, they can work on increasing their unique customers (currently 89) and improving their weekly sales.
 
